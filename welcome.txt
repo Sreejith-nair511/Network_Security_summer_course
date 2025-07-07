@@ -1,0 +1,10 @@
+<html>
+    <head>
+          <title>Welcome Page</title>
+    </head>
+    <body>
+          <h1>Welcome to HTTP Learning</h1>
+              Welcome to experiential learning of HTTP protocol.
+    </body>
+</html>
+

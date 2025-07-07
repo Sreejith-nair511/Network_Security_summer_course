@@ -1,0 +1,7 @@
+{
+    "_comment": "csrfadmin is the password for admin",
+    "admin": "$2y$10$ICmYyeceucnjWRH2PDAqsOojq7A5k6p6aSA6RX290kmEhNJbDTjjG",
+    "victim": "$2y$10$tRWOjkUi5RkfbekGEV6EEOc2MQTsIKMrDan5NHekWdi2rTTsjFF8i",
+    "bankuser": "$2y$10$lQthyTgcvjw6FWkjX7m9XOQma14GS1fA9bD44aVejgR.V8U1lfOrW",
+    "attacker": "$2y$10$TlogFw3IkkPsKG8M5l0e7eXXFlwwZHpS.E0X1nfoNfXwKGfsl7.nu"
+}

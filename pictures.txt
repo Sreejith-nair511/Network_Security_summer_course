@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1><font size="+6">Image Gallery </font></h1>
+<img src="/img/img-01.jpg" />
+<img src="/img/img-02.jpg" />
+<img src="/img/img-03.jpg" />
+<img src="/img/img-04.jpg" />
+<img src="/img/img-05.jpg" />
+<img src="/img/img-06.jpg" />
+<img src="/img/img-07.jpg" />
+<img src="/img/img-08.jpg" />
+<img src="/img/img-09.jpg" />
+<img src="/img/img-10.jpg" />
+
+</body>
+</html>

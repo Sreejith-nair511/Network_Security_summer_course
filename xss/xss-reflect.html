@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reflected XSS Non-Persistent</title>
+</head>
+<body>
+  <h2>Search Page (Vulnerable: XSS NonPersistent)</h2>
+  <form method="GET" action="xss-reflect.php">
+    <label>Search Name (Vulnerable):</label>
+    <input type="text" name="qry" id="qry" />
+    <input type="submit" value="Search" />
+  </form>
+  <p>
+  <h2>Search Page (Script Safe): XSS NonPersistent)</h2>
+  <form method="GET" action="xss-reflect-safe.php">
+    <label>Search Name (Script Safe):</label>
+    <input type="text" name="qry" id="qry" />
+    <input type="submit" value="Search" />
+  </form>
+</body>
+</html>
